@@ -1,9 +1,8 @@
-### Khushbu Patel 👋
+### Khushbu Patel 👋 [![Linkedin Badge](https://img.shields.io/badge/-khushbu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/khushbu-patel-b1a196b5/)
 
 > Learning with the challenges | Growing with the data
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushbu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/khushbu-patel-b1a196b5/)
 
 - 👩‍🔬 Bioinformatics Scientist
 - 🔭 Currently working at The Children's Hospital of Philadelphia
