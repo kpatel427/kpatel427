@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kpatel427&count_private=true&show_icons=true)
+#![Github Stats](https://github-readme-stats.vercel.app/api?username=kpatel427&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpatel427&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kpatel427.kpatel427)
