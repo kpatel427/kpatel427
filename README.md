@@ -1,5 +1,7 @@
 ### Khushbu Patel 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-khushbu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/khushbu-patel-b1a196b5/)
+
 Bioinformatics Scientist at The Children's Hospital of Philadelphia
 
 Learning with the challenges | Growing with the data
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushbu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/khushbu-patel-b1a196b5/)
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kpatel427&count_private=true&show_icons=true)
