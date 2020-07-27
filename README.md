@@ -11,6 +11,7 @@ Find out more about me here: [kpatel427.github.io](https://kpatel427.github.io/)
 
 <!--
 **kpatel427/kpatel427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kpatel427&count_private=true&show_icons=true)
 
 Here are some ideas to get you started:
 
@@ -25,9 +26,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-#![Github Stats](https://github-readme-stats.vercel.app/api?username=kpatel427&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpatel427&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kpatel427.kpatel427)
