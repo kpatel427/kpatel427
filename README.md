@@ -1,4 +1,4 @@
-### Khushbu Patel 👋 [![Linkedin Badge](https://img.shields.io/badge/-khushbu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/khushbu-patel-b1a196b5/)
+### Khushbu Patel 👋 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/khushbu-patel-b1a196b5/)
 
 > Learning with the challenges | Growing with the data
 
