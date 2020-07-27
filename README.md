@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpatel427&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kpatel427.kpatel427)
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=kpate427)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=kpatel427)
 
 
 
