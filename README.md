@@ -2,7 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-khushbu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/khushbu-patel-b1a196b5/)
 
-Bioinformatics Scientist at The Children's Hospital of Philadelphia
+- 👩‍🔬 Bioinformatics Scientist
+- 🔭 Currently working at The Children's Hospital of Philadelphia
+- 💻 Experienced working with RNA-Seq, transcriptomics and genomics data, data visualization and data analysis in R
+
+
 
 > Learning with the challenges | Growing with the data
 
