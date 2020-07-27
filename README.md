@@ -1,14 +1,14 @@
 ### Khushbu Patel 👋
 
+> Learning with the challenges | Growing with the data
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-khushbu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/khushbu-patel-b1a196b5/)
 
 - 👩‍🔬 Bioinformatics Scientist
 - 🔭 Currently working at The Children's Hospital of Philadelphia
 - 💻 Experienced working with RNA-Seq, transcriptomics and genomics data, data visualization and data analysis in R
 
-
-
-> Learning with the challenges | Growing with the data
 
 Find out more about me here: [kpatel427.github.io](https://kpatel427.github.io/)
 
