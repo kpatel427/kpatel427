@@ -1,5 +1,8 @@
-### Hi there 👋
-I am Khushbu Patel Bioinformatics Scientist at The Children's Hospital of Philadelphia
+### Khushbu Patel 👋
+Bioinformatics Scientist at The Children's Hospital of Philadelphia
+Learning with the challenges | Growing with the data
+
+Find out more about me here: ![kpatel427.github.io](https://kpatel427.github.io/)
 
 
 <!--
