@@ -6,7 +6,7 @@
 
 - 👩‍🔬 Bioinformatics Scientist
 - 🔭 Currently working at the Children's Hospital of Philadelphia
-- 💻 Experienced working with RNA-Seq, transcriptomics and genomics data, data visualization and data analysis in R
+- 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R
 - 🔍 Find out more about me here: [khushbupatel.info](https://khushbupatel.info/)
 
 
